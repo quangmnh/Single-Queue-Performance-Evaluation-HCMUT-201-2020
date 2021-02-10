@@ -17,18 +17,18 @@ For this project, we choose **Round Robin Single Queue**, which is the fifth top
 This is the notebook file consists of all we had done (**Python 3** code and **Report**).
 >Example
 
->&nbsp;&nbsp;FIFO.py
+>&nbsp;&nbsp;&nbsp;&nbsp;FIFO.py
 
->&nbsp;&nbsp;MM1wStat.py
+>&nbsp;&nbsp;&nbsp;&nbsp;MM1wStat.py
 
->&nbsp;&nbsp;effect.xlsx
+>&nbsp;&nbsp;&nbsp;&nbsp;effect.xlsx
 
->&nbsp;&nbsp;pe6-simulation-introduction.pdf
+>&nbsp;&nbsp;&nbsp;&nbsp;pe6-simulation-introduction.pdf
 
 This folder has example provided by Mr.Tran Van Hoai of how to use **Simpy** and evalute the queue. The **effect.xlsx** is our own example of how to calculate effect of factor of the metrics.
 
 >Topic
 
->&nbsp;&nbsp;BTL-20201110.pdf
+>&nbsp;&nbsp;&nbsp;&nbsp;BTL-20201110.pdf
 
 The topics given by Mr.Tran Van Hoai (8 overall) from which we choose topic 5 - (3sv) Queue M=M=1=B = 1=K = 1=SD = RR.
