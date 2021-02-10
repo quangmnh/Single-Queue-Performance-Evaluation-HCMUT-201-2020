@@ -4,7 +4,7 @@ Single queue's performance evaluation (Round Robin). Assignment from Mr.Tran Van
 # About
 This is a Performance Evaluation assignment from term 201,2020, Ho Chi Minh University of Technology, handed out by Mr. Tran Van Hoai.
 
-In this assignement, we have to run a simulation of one type of **Single Queue** using **Simpy** and **Colab Notebook** (or **Jupyter Notebook**, situated). With this simulator, we perform an evaluation by creating full factorial experiments (2<sup>k<sup>) and conclude how each factor affect the performance of the queue.
+In this assignement, we have to run a simulation of one type of **Single Queue** using **Simpy** and **Colab Notebook** (or **Jupyter Notebook**, situated). With this simulator, we perform an evaluation by creating full factorial experiments (2<sup>k<\sup>) and conclude how each factor affect the performance of the queue.
 
 For this project, we choose **Round Robin Single Queue**, which is the fifth topic of the assignment.
 
