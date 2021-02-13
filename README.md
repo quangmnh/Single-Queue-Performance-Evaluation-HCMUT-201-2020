@@ -25,7 +25,7 @@ This is the notebook file consists of all we had done (**Python 3** code and **R
 
 >&nbsp;&nbsp;&nbsp;&nbsp;pe6-simulation-introduction.pdf
 
-This folder has example provided by Mr.Tran Van Hoai of how to use **Simpy** and evalute the queue. The **effect.xlsx** is our own example of how to calculate effect of factor of the metrics.
+This folder has examples provided by Mr.Tran Van Hoai of how to use **Simpy** and evalute the queue. The **effect.xlsx** is our own example of how to calculate effect of factor of the metrics.
 
 >Topic
 
